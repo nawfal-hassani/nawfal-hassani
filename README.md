@@ -9,10 +9,10 @@ I build pragmatic web tools — NFC integrations, ESC/POS thermal printers, and 
 
 ### Selected work
 
+- **[engine](https://github.com/nawfal-hassani/engine)** — B2B prospection platform. Next.js 16, React 19, Prisma, PostgreSQL.
+- **[thermalprint](https://github.com/nawfal-hassani/thermalprint)** — Web app to control any ESC/POS thermal printer: PDF import, live device status, ticket editor.
 - **[portfolio](https://github.com/nawfal-hassani/portfolio)** — Personal site built with Astro, React Three Fiber and cobe.
-- **thermalprint** — Web app to control any ESC/POS thermal printer: PDF import, live device status, ticket editor.
-- **chocolatine-ci** — Reusable GitHub Actions workflow for Epitech projects.
-- **NFC_TOOLS** — Desktop tooling for reading and writing NFC tags.
+- **[chocolatine-ci](https://github.com/nawfal-hassani/chocolatine-ci)** — Reusable GitHub Actions workflow for Epitech projects.
 
 ### Stats
 
