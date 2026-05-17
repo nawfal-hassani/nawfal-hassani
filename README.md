@@ -155,3 +155,4 @@ Currently studying at **Epitech Montpellier**, shipping real products on the sid
   <i>Always open to new opportunities and conversations.</i><br/>
   <a href="mailto:nawfal.hassani@epitech.eu">nawfal.hassani@epitech.eu</a> · <a href="https://nawfal.fr">nawfal.fr</a>
 </p>
+
