@@ -87,49 +87,6 @@ Currently studying at **Epitech Montpellier**, shipping real products on the sid
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nawfal-hassani/engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawfal-hassani&repo=engine&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nawfal-hassani/sncard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawfal-hassani&repo=sncard&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nawfal-hassani/thermalprint">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawfal-hassani&repo=thermalprint&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nawfal-hassani/jdc_sms">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawfal-hassani&repo=jdc_sms&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/nawfal-hassani/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawfal-hassani&repo=portfolio&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/nawfal-hassani/chocolatine-ci">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawfal-hassani&repo=chocolatine-ci&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
